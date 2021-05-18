@@ -1,0 +1,11 @@
+{
+    "masterVersionFile":"https://bitbucket.org/Coherent_Watermelon/master/downloads/CWSP.version",
+    "modName":"CWSP",
+    #"modThreadId":"",
+    "modVersion":
+    {
+        "major":1,
+        "minor":1,
+        "patch":"0"
+    },
+}
