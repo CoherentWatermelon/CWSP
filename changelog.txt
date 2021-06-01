@@ -1,0 +1,63 @@
+-----1.2-----
+
+SWITCHED OVER TO GITHUB PRAISE BE
+
+-added several new ships
+	- Alsophis Fighter
+	- Hunter-class Anti-Phase Frigate
+	- Illuminant-class Supercruiser (planned to be a bounty, currently just a very high end cruiser)
+	- Elapid Gunship/Heavy CAS
+-added built ins for all related vessels
+-added them to the spawning and mission
+-changed the sprite for the Aristaeus! LET'S GOOOO
+-changed the Phantasm's name to Eryx, increased OP cost by 1 due to strength relative to broadsword
+-did minor rebalances to certain things, notably some fighters
+-changed some descriptions slightly to read off better
+-added descriptions to fighter weapons
+-removed doom-class cruiser
+-strangled intellij to death. it deserved it, so don't visit the funeral
+
+
+
+-----1.1-----
+-Reduced ranges on the Swordbreaker and sorta secret light swordbreaker to 500 and 450 from 600 and 600 respectively.
+-fixed the strap having 2 turrets and one hardpoint instead of vice versa
+-added a description for the foxbat
+-fixed a stupid filepath-case-sensetivity issue that was crashing linux, hopefully it's the only one
+
+
+-----0.10? 1.0?-----
+-Added Backpack Support Frigate
+-Added Strap PD Drone
+-Added Foxbat Fast Interceptor
+-Baron has been renamed to Impala to prevent name clashing
+-Added various CWSP ships and variants into the simulation!
+-Minor fixes, changes to descriptions
+
+
+-----0.9a-----
+
+-Red October added, with it's variant missile - the Blizzard
+-Light Swordbreaker is now unfindable and does not autofit, aimed to become exclusively a fighter weapon due to it's being a dissapointment and nuisance
+-October recieves a shipsystem - the interdiction array formerly used by the Doom
+-Across the board buffs to the October, and to a lesser extent its missiles
+-Hussar system change (was FMR is now M. Autoforge)
+-Changed the Quarterback's bomb from yellow to green for easier identification
+-Furor now has a glow sprite
+
+-----0.8a-----
+
+-Added October-Class Strategic Missile Cruiser, and it's missile, the Mercy
+-Added "Quarterback" Strategic Bomber
+-Added Actinide Rod Cannon
+-Added trails to select weapons
+-Fixed some sprites that looked bad or were misaligned 
+-Minor anti-phase system buff
+-Minor description, title, and name changes
+-Slight changes that i didn't remember to add the changelog so now i must suffer my fate writing this
+
+Thanks for your support, and i hope you enjoy
+
+
+-----START OF CHANGELOG-----
+I don't really remember all the changes i made before adding this.
