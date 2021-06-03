@@ -17,6 +17,8 @@ SWITCHED OVER TO GITHUB PRAISE BE
 -removed doom-class cruiser
 -strangled intellij to death. it deserved it, so don't visit the funeral
 
+i did a lot of stuff i didn't actually document this update sooooo yknow. sorry.
+
 
 
 -----1.1-----
